@@ -7,7 +7,7 @@
     "keywords": ["behat","bdd","magento"],
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "magetest/magento-behat-extension": "dev-master",
+        "kassner/magento-behat": "dev-master",
         "behat/mink-selenium2-driver":"*"
     },
     "autoload": {

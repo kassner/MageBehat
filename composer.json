@@ -6,7 +6,7 @@
     "license": "MIT",
     "keywords": ["behat","bdd","magento"],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*",
+        "magento-hackathon/magento-composer-installer": "2.1.1",
         "kassner/magento-behat": "dev-master",
         "behat/mink-selenium2-driver":"*"
     },
